@@ -1,3 +1,4 @@
+![image](https://image.freepik.com/free-photo/online-reviews-evaluation-time-review-inspection-assessment-auditing_36325-2211.jpg)
 # my-notes
 > **hey there thanks for your time and intrest to read this :**
 >
@@ -5,6 +6,7 @@
 1. ### *My name is Aws Alyasjeen, and Im a software engineer, and Im a recipient of a LTUC scholarship in software development, I hope I can help you as much as possible.*
 # 
 >#### Today Im going to give you a quick summary about the article "the key points that every developer must master" :
+ -  note : you can read it by clicking [here](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
 >
 >> *You need to know the Purpose of the softwear and the goal of it to avoid getting misunderstood and getting a bad software,and there are some tips to get a good job and avoid common mistakes that cost a lot of time, effort and money like:
  make the code as simple as possible for other programmers ,and You should always think about the control complexity and try to avoid errors that may make you add code that is not necessary and may affect the efficiency of the software.
